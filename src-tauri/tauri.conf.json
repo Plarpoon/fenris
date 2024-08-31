@@ -12,7 +12,7 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "fenris",
+        "title": "Fenris",
         "width": 800,
         "height": 600
       }
